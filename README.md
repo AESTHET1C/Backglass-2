@@ -7,7 +7,7 @@ The board contains the following hardware:
 * Microchip ATmega8U2/16U2 (serial communication and code upload)
 * Microchip ATmega328P (user code)
 * Microchip ATmega48PB (audio/visual coprocessing)
-* 4-digit LED display
+* 4-character 7 segment display
 * 2 analogue inputs (for reflectance sensors)
 * 5 digital inputs (with integrated pull-ups)
 * 3 current-limited LED outputs
